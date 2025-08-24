@@ -16,5 +16,6 @@ if [ -z "$OMARCHY_BARE" ]; then
     echo -e "\e[31mFailed to install 1password. Continuing without!\e[0m"
 fi
 
+yay -S --noconfirm --needed xournalpp spotify capacities-appimage
 # Copy over Omarchy applications
 source omarchy-refresh-applications || true
