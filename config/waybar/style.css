@@ -24,7 +24,7 @@ window#waybar.empty #window {
 .modules-left,
 .modules-right,
 .modules-center {
-  margin: 2px 10px 0 10px;
+  margin: 2px 8px 0 8px;
   background-color: @background;
   border: 1px solid @focused;
   border-radius: 3px;
