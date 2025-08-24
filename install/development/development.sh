@@ -6,4 +6,4 @@ yay -S --noconfirm --needed \
   mariadb-libs postgresql-libs \
   github-cli \
   lazygit lazydocker-bin \
-  nvm
+  nvm claude-code
